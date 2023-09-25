@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anuar Nauryzbayev</h1>
 <h3 align="center">A passionate Python developer from Kazakhstan</h3>
 
-- 🌱 I’m currently learning **Django, React,  RAPIDS**
+- 🌱 I’m currently learning **Django, React, RAPIDS**
 
-- 💬 Ask me about **Scikit-learn, NumPy, Pandas, seaborn, Matplotlib, Plotly**
+- 💬 Ask me about **Scikit-learn, NumPy, Pandas, seaborn, Matplotlib, Plotly, TensorFlow, PyTorch**
 
 - 📫 How to reach me **anuar012001@gmail.com**
 
